@@ -1,0 +1,3 @@
+[submodule "CryogenicEngine/vendor/spdlog"]
+	path = CryogenicEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
